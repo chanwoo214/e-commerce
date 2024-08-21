@@ -24,7 +24,7 @@ const Navbar = () => {
             </div>
 
             <div className='nav-section'>
-                <img width={150} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ExBRfl1tbwJQJkK8ggXFHmrGMP24ZLmGDA&s"></img>
+                <img width={150} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ExBRfl1tbwJQJkK8ggXFHmrGMP24ZLmGDA&s" alt=""></img>
             </div>
 
 
